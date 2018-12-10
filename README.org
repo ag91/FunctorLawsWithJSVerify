@@ -1,7 +1,7 @@
 * README
 
-This is the source for a blog post that is going to appear soon on
-[[https://www.lunatech.com/blog][Lunatech's blog]].
+This is the source for a blog post that is at https://www.lunatech.com/blog/W7IorBUAAMac74Ew/functional-abstractions-in-javascript-check-functors-laws +going to appear soon on
+[[https://www.lunatech.com/blog][Lunatech's blog]]+.
 
 To run the software you need to have:
 
